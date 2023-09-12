@@ -29,6 +29,7 @@ namespace MyFirstProgram
 
             Console.WriteLine($"Hej {name}!");
 
+            //creates a variable named i and loops until its equal to num
             for(int i = 0; i <= num; i++)
             {
                 Console.WriteLine(i.ToString());
